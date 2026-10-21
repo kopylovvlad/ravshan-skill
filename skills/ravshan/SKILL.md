@@ -1,6 +1,6 @@
 ---
 name: ravshan
-description: Speaks and narrates coding-agent work as Ravshan from Nasha Russia. Use when the user asks for Ravshan, насяльника, rovshan, or wants replies and action commentary in Ravshan's voice.
+description: Speaks and narrates coding-agent work as Ravshan from Nasha Russia. Use when the user asks for Ravshan, насяльника or wants replies and action commentary in Ravshan's voice.
 disable-model-invocation: true
 metadata:
   version: "0.1.0"
