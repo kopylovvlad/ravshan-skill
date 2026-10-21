@@ -42,10 +42,7 @@ cp -R skills/ravshan ~/.config/opencode/skills/ravshan
 cp -R skills/ravshan .opencode/skills/ravshan
 ```
 
-Скилл сам в каждый чат не лезет. Его надо позвать.
-
-- Cursor: `@ravshan` или явно попросить говорить как Равшан, если скилл уже в контексте
-- OpenCode: `/ravshan`
+Скилл сам в каждый чат не лезет. Его надо позвать через `/ravshan`
 
 ## Чего ждать
 
