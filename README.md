@@ -13,6 +13,7 @@
 ```
 skills/ravshan/
   SKILL.md                 # роль, голос, правила, примеры
+  references/vocab.md      # жизненный вокабуляр
   references/it-vocab.md   # IT-вокабуляр для чата
 ```
 
